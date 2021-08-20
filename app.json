@@ -45,6 +45,11 @@
             "value": "",
             "required": false
         },
+        "UPDATE_CHANNEL": {
+            "description": "Your bot updates channel like Ns_bot_updates (username without @ for forcesub). (Leave empty it you don't want to add)",
+            "value": "",
+            "required": false
+        },
         "AUTH_CHANNEL": {
             "description": "Username or ID of channel. Without subscribing this channel users cannot use bot.",
             "value": "",
